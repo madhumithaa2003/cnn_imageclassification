@@ -4,7 +4,8 @@ The dataset can be loaded in cloud platforms(eg Drive) and can be used for train
 Cat and Dog Image Classifier
 
 Overview:
-This project is an image classification model that differentiates between cats and dogs. It uses a Convolutional Neural Network (CNN) trained with TensorFlow/Keras. 
+This project is an image classification model that differentiates between cats and dogs. 
+It uses a Convolutional Neural Network (CNN) trained with TensorFlow/Keras. 
 The project also includes a web application built with Flask, allowing users to upload images and receive predictions.
 
 Features:
